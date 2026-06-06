@@ -1,0 +1,32 @@
+ID_Producto,Producto,Categoría,Subcategoría,Proveedor,Costo_Unitario,Precio_Unitario
+P001,Arroz,Granos,Básicos,Alimentos SA,0.70,1.10
+P002,Frijoles,Granos,Básicos,Alimentos SA,0.80,1.25
+P003,Azúcar,Granos,Básicos,DulceVida,0.60,1.00
+P004, Cáfe,Bebidas,Calientes,Café Premium,2.50,4.00
+P005,Coca Cola,Bebidas,Gaseosas,Bebidas Unidas,0.75,1.25
+P006,Jugo Naranja,Bebidas,Naturales,Bebidas Unidas,0.90,1.50
+P007,Leche Entera,Lácteos,Leches,Lácteos del Valle,0.80,1.40
+P008,Yogurt Fresa,Lácteos,Yogurt,Lácteos del Valle,0.70,1.25
+P009,Queso Fresco,Lácteos,Quesos,Lácteos del Valle,2.00,3.50
+P010,Pan Integral,Panadería,Panadería,Pan Feliz,0.90,1.50
+P011,Galletas Vainilla,Snacks,Galletas,SnackCorp,0.50,1.15
+P012,Papas Fritas,Snacks,Papas,SnackCorp,0.40,0.95
+P013,Chocolate,Snacks,Dulces,Dulce Vida,0.80,1.70
+P014,Jabón Baño,Higiene,Personal,Limpio SA,0.40,1.10
+P015,Shampoo,Higiene,Personal,Limpio SA,1.80,3.15
+P016,Pasta Dental,Higiene,Personal,Limpio SA,0.85,1.90
+P017,Detergente,Limpieza,Hogar,Hogar Limpio,1.45,2.80
+P018,Cloro,Limpieza,Hogar,Hogar Limpio,0.70,1.50
+P019,Esponja,Limpieza,Hogar,Hogar Limpio,0.20,0.70
+P020,Servilletas,Hogar,Desechables,MultiHogar,0.60,1.25
+P021,Platos Desechables,Hogar,Desechables,MultiHogar,1.10,2.00
+P022,Manteles Desechables,Hogar,Desechables,MultiHogar,1.50,2.80
+P023,Pastel Piña,Panadería,Pastelería,Cake Party,4.50,7.50
+P024,Brazo Gitano,Panadería,Pastelería,Cake Party,3.90,6.20
+P025,Pay Manzana,Panadería,Pastelería,Cake Party,4.30,7.30
+P026,Takis,Golosinas,Churros,Panterita,0.70,1.60
+P027,Yukitas,Golosinas,Churros,Panterita,0.60,1.30
+P028,Licuadora,Electrodomésticos,Electrodomésticos,Vidri SA,18.40,30.20
+P029,Plancha,Electrodomésticos,Electrodoméstico,Vidri SA,14.50,23.60
+P030,Microondas,Electrodomésticos,Electrodomésticos,Vidri SA,56.60,83,50
+

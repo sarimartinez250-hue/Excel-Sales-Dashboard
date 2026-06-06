@@ -1,0 +1,26 @@
+ID_Sucursal|Sucursal|Departamento|Municipio|Distrito
+S001|Centro Comercial Metro|San Salvador|San Salvador Centro|San Salvador
+S002|Plaza Central|San Salvador|San Salvador Centro|San Salvador
+S003|Torre Empresarial|San Salvador|San Salvador Centro|San Salvador
+S004|Plaza Soya|San Salvador|San Salvador Este|Soyapango
+S005|Metro Oriente|San Salvador|San Salvador Este|Soyapango
+S006|Las Palmeras|San Salvador|San Salvador Este|Soyapango
+S007|Santa Ana Centro Mall|Santa Ana|Santa Ana Centro|Santa Ana
+S008|Plaza Libertad|Santa Ana|Santa Ana Centro|Santa Ana
+S009|Metro Santa Ana|Santa Ana|Santa Ana Centro|Santa Ana
+S010|Las Hojas|Santa Ana|Santa Ana Norte|Metapán
+S011|Metapán Mall|Santa Ana|Santa Ana Norte|Metapán
+S012|Plaza Ana|Santa Ana|Santa Ana Norte|Masahuat
+S013|Plaza Puerto|La Libertad|La Libertad Costa|La Libertad
+S014|Surf City Mall|La Libertad|La Libertad Costa|La Libertad
+S015|Centro Oriente|La Libertad|La Libertad Centro|Ciudad Arce
+S016|Ross Plaza|La Libertad|La Libertad Este|Antiguo Cuscatlán
+S017|Plaza Antigua|La Libertad|La Libertad Este|Antiguo Cuscatlán
+S018|Plaza Chaparrastique|San Miguel|San Miguel Centro|San Miguel
+S019|Metro San Miguel|San Miguel|San Miguel Centro|San Miguel
+S020|Plaza Usulután|Usulután|Usulután Este|Usulután
+S021|Centro Comercial Usulután|Usulután|Usulután Este|Usulután
+S022|Metro Usulután|Usulután|Usultán Norte|Alegría
+S023|Mall Alegría|Usulután|Usulután Norte|Alegría
+S024|Mall California|Usulután|Usulután Norte|Mercedes Umaña
+S025|Plaza Berlín|Usulután|Usulután Oeste|Jiquilisco
